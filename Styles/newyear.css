@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+header{
+    height: 100%;
+    width: 100%;
+}
+.header-title{
+    color: #151414;
+    position: absolute;
+    width: 550px;
+    height: 200px;
+    left: 845px;
+    top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+.pra-title{
+    position: absolute;
+    padding-top: 70px;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-weight: 250;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+
+}
+.primary-btn{
+    color: #005FAC;
+    position: absolute;
+    width: 109px;
+    height: 50px;
+    left: 1236px;
+    top: 650px;
+}
+.previous{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.previous img{
+    width: 569px;
+    height: 724px;
+    left: 206px;
+    top: 939px;
+    position: absolute;
+}
+.previous-text{
+            position: absolute;
+            width: 416px;
+            height: 400px;
+            left: 862px;
+            top: 1178px;
+}
+.previous-text h3{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    width: 288px;
+    top: 1178px;
+    height: 94px;
+    
+}
+.previous-text p{
+    padding-top: 24px;
+    padding-bottom: 16px;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
